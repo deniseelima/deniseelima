@@ -17,10 +17,13 @@ Eu sou a Denise Lima, estudante de Análise e Desenvolvimento de Sistemas na Uni
 
 <b> Minhas redes:</b>
 
-![Ícone do Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)
-![Ícone do LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)
-![Ícone do Facebook](https://img.icons8.com/color/48/000000/facebook--v1.png)
-![Ícone do GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+<a href="https://instagram.com/deniseeliima?igshid=MzNlNGNkZWQ4Mg=="> ![Ícone do Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)</a>
+<a href="https://www.linkedin.com/in/deniseeliima">
+![Ícone do LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)</a>
+<a href="https://www.facebook.com/denise.lima.315213?mibextid=ZbWKwL">
+![Ícone do Facebook](https://img.icons8.com/color/48/000000/facebook--v1.png)</a>
+<a href="https://github.com/deniseelima">
+![Ícone do GitHub](https://img.icons8.com/fluent/48/000000/github.png)</a>
 
 
 [![Denise Status](https://github-readme-stats.vercel.app/api?username=deniseelima)](https://github.com/deniseelima/github-readme-stats)
